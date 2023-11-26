@@ -5,3 +5,5 @@ venv/
 # Data
 data/
 gifs/
+
+.DS_Store
